@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621509805 source:e:\hand cricket\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
